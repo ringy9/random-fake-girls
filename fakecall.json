@@ -1,0 +1,44 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "aecbc300ddd0732c",
+            "max_int": "1ab460bee3c110b8",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Call Random Girls",
+            "photo": "https://i.postimg.cc/Jh0YWyJP/276993966-380694874060014-5067103145735176151-n.jpg",
+            "voice": "https://ringy9.github.io/random-fake-girls/call_vid_1.mp4",
+            "video": "https://ringy9.github.io/random-fake-girls/call_vid_2.mp4",
+            "stories": [
+                "https://i.postimg.cc/wvppxcV9/img1.jpg",
+                "https://i.postimg.cc/HLbqN8CR/img10.jpg",
+                "https://i.postimg.cc/yYbC3zPQ/img2.jpg",
+                "https://i.postimg.cc/tCTHgghn/img3.jpg",
+                "https://i.postimg.cc/j280XVrj/img5.jpg",
+                "https://i.postimg.cc/PxQkCp3Y/img4.jpg"
+            ],
+            "wallpapers": [
+                "https://i.postimg.cc/wvppxcV9/img1.jpg",
+                "https://i.postimg.cc/HLbqN8CR/img10.jpg",
+                "https://i.postimg.cc/yYbC3zPQ/img2.jpg",
+                "https://i.postimg.cc/j280XVrj/img5.jpg",
+                "https://i.postimg.cc/tCTHgghn/img3.jpg",
+                "https://i.postimg.cc/PxQkCp3Y/img4.jpg",
+                "https://i.postimg.cc/gjcb8zQ5/img6.jpg",
+                "https://i.postimg.cc/PqGGKz01/img7.jpg"
+				"https://i.postimg.cc/59pV1zFM/img8.jpg",
+                "https://i.postimg.cc/BnP9xw7q/img9.jpg"
+            ]
+          
+        }
+    ]
+}
