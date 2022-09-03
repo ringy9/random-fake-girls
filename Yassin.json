@@ -1,11 +1,11 @@
 {
     "config" : [
         {
-            "int_interval" : 2,
+            "int_interval" : 5,
             "activate_ads" : "true",
             "activate_steps" : "false",
             "activate_step_email" : "false",
-            "network" : "admob",
+            "network" : "is",
             "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
             "admob_int" : "ca-app-pub-3940256099942544/1033173712",
@@ -19,7 +19,7 @@
             "face_interstital": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
             "face_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
             "face_mrec": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-            "ironsource_key": "12c959ebd",
+            "ironsource_key": "164fd109d",
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
         }
@@ -28,36 +28,36 @@
     "menu" : [
         {
             "active" : "true",
-            "name" : "Yacine TV",
+            "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#cc0a11"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "puzzle",
             "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
             "bg" : "#FBBF24"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "spinner",
             "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
             "bg" : "#A3E635"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "scratch",
             "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
             "bg" : "#38BDF8"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "questions",
             "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
             "bg" : "#2DD4BF"
         },
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
             "bg" : "#4ADE80"
@@ -276,7 +276,44 @@
             "img2" : "https://i.postimg.cc/vTkYh1cg/file-1657872453308.jpg",
             "part1" : "You can download any version of the application directly from the third-party website. You can have the app archives of most versions and you can download them according to your needs.Unlike Play Store, downloading is instant, you don't have to wait for the review process, etc.After downloading, there is an APK file on your memory card/system memory. So you can uninstall and reinstall them many times without downloading.",
             "part2" : "Downloading apps from third-party sources are not usually checked by Google. So it can be harmful to your phone.APK files may contain viruses that steal data from your phone or damage your phone.Your apps won't automatically update because they don't usually have access to the Google Play Store"
+        },
+         {
+            "url" : "http://app.yacineapp.tv/",
+            "urlimg" : "https://i.postimg.cc/DzM3LnrM/pp.png",
+            "name" : "Live Yacine TV Scores",
+            "img1" : "https://i.postimg.cc/RCs3bHM3/unnamed-2.png",
+            "img2" : "https://i.postimg.cc/c1cWDb81/file-1657871923716.png",
+            "part1" : "If you are looking or searching for a new IPTV or TV streaming app to stream live FIFA world cup 2022 matches for free then you must download and install the latest version of the new IPTV app “Yacine TV” on your smartphone and tablet for free.",
+            "part2" : "As you know that getting a free IPTV or streaming app is not easy for many smartphone users. Because there are tons of streaming and IPTV apps on the internet with different features and media content.Choosing the best among these apps is not easy if you don’t know about the app. To help our viewers to choose the best app we always try to share the best IPTV or streaming app with brief information about content and other features of the app which help them to decide whether need this app or not.As mentioned above it is the new and latest IPTV or TV streaming app developed and released by ycntivi for android and iOS users from all around the world who want to watch live sports matches and want to stream movies and other media content for free."
+        },
+        {
+            "url" : "http://app.yacineapp.tv/",
+            "urlimg" : "https://i.postimg.cc/DzM3LnrM/pp.png",
+            "name" : "Live Yacine TV Scores",
+            "img1" : "https://i.postimg.cc/RCs3bHM3/unnamed-2.png",
+            "img2" : "https://i.postimg.cc/fbk7PpbG/file-1657871976141.jpg",
+            "part1" : "This new app is initially available on all official app stores on internet but now this app also has been removed from all official app stores due to different legality issues which are mostly free streaming apps or tool face.",
+            "part2" : "Like other IPTV apps or streaming apps developer has divided all Live TV channels into different categories so that people can get access to their desired TV channels easily. We have tried to mention all streaming and Live TV channels in this article. "
+        },
+        {
+            "url" : "http://app.yacineapp.tv/",
+            "urlimg" : "https://i.postimg.cc/DzM3LnrM/pp.png",
+            "name" : "Live Yacine TV Scores",
+            "img1" : "https://i.postimg.cc/RCs3bHM3/unnamed-2.png",
+            "img2" : "https://i.postimg.cc/G2tytyD6/file-1657872032679.jpg",
+            "part1" : "If you want to know about this new app before downloading and installing it on your device then you can easily get information about the app from their official website where you will get a download link of the app too.",
+            "part2" : "Apart from the official website you can also get information about this new app from this article. In this article, we have tried to cover all the key features and drawbacks of the app. After reading all the key features and drawbacks if you decided to download this new app then you can easily download it from their official website for free.Apart from this news all, you may also try these below mentioned other sports apps from our website to stream Live FIFA 2022 world matches for free,"
+        },
+        {
+            "url" : "http://app.yacineapp.tv/",
+            "urlimg" : "https://i.postimg.cc/DzM3LnrM/pp.png",
+            "name" : "Live Yacine TV Scores",
+            "img1" : "https://i.postimg.cc/RCs3bHM3/unnamed-2.png",
+            "img2" : "https://i.postimg.cc/Y2JdcrKt/file-1657872142985.jpg",
+            "part1" : "In this new app users will get the below-mentioned TV channels from list categories like,",
+            "part2" : "Arena Sports 1, Arena Sports 2, Arena Sports 3, Tring Sport 1, Tring Sport 2, Setanta Sports 1, Setanta Sports 2, Match! TV, Idman TV CBC Sport, Turkmenistan Sports."
         }
+           
 
       ]
 }
