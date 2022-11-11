@@ -1,319 +1,277 @@
 {
     "config" : [
         {
-            "int_interval" : 5,
+            "network" : "max",
             "activate_ads" : "true",
-            "activate_steps" : "false",
-            "activate_step_email" : "false",
-            "network" : "admob",
-            "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
+            "int_interval" : 4,
+
+            "groups_box_active" : "on",
+            "groups_matches_active" : "on",
+            "groups_news_active" : "on",
+            "iptv_active" : "off",
+            "live_active" : "off",
+
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-            "admob_int" : "ca-app-pub-3940256099942544/1033173712",
-            "yandex_banner" : "R-M-1820435-1",
-            "yandex_native" : "R-M-1820435-2",
-            "yandex_int" : "R-M-1820435-3",
-            "max_ban" : "0859a540947440f3",
-            "max_int" : "2fad6a3e8adb74d8",
-            "max_native" : "1df325f88cabdca6",
-            "face_banner": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
-            "face_interstital": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
-            "face_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
-            "face_mrec": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-            "ironsource_key": "164fd109d",
-            "activate_update_app": "false",
-            "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
+            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
+            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+
+            "iron_key": "17417cb4d",
+            "iron_ban" : "DefaultBanner",
+            "iron_int" : "DefaultInterstitial",
+
+            "max_ban" : "0ed9bd92d7d8ebd7",
+            "max_native" : "498b6b0b634808e0",
+            "max_int" : "1b7c6b8e28e541e9"
+        }
+    ],
+
+    "groups" : [
+        {
+            "groupa" : [
+                {
+                    "name" : "Qatar",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/qatar.png"
+                },{
+                    "name" : "Ecuador",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/ecuador.png"
+                },{
+                    "name" : "Senegal",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/senegal.png"
+                },{
+                    "name" : "Netherlands",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/netherlands.png"
+                }
+            ],
+            "groupb" : [
+                {
+                    "name" : "England",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/england.png"
+                },{
+                    "name" : "Iran",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/iran.png"
+                },{
+                    "name" : "USA",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/usa.png"
+                },{
+                    "name" : "Wales",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/wales.png"
+                }
+            ],
+            "groupc" : [
+                {
+                    "name" : "Argentina",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/argentina.png"
+                },{
+                    "name" : "Saudi Arabia",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/saudi-arabia.png"
+                },{
+                    "name" : "Mexico",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/mexico.png"
+                },{
+                    "name" : "Poland",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/poland.png"
+                }
+            ],
+            "groupd" : [
+                {
+                    "name" : "France",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/france.png"
+                },{
+                    "name" : "Australia",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/australia.png"
+                },{
+                    "name" : "Denmark",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/denmark.png"
+                },{
+                    "name" : "Tunisia",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/tunisia.png"
+                }
+            ],
+            "groupe" : [
+                {
+                    "name" : "Spain",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/spain.png"
+                },{
+                    "name" : "Costa Rica",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/costa-rica.png"
+                },{
+                    "name" : "Germany",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/germany.png"
+                },{
+                    "name" : "Japan",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/japan.png"
+                }
+            ],
+            "groupf" : [
+                {
+                    "name" : "Belgium",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/belgium.png"
+                },{
+                    "name" : "Canada",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/canada.png"
+                },{
+                    "name" : "Morocco",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/morocco.png"
+                },{
+                    "name" : "Croatia",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/croatia.png"
+                }
+            ],
+            "groupg" : [
+                {
+                    "name" : "Brasil",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/brazil.png"
+                },{
+                    "name" : "Serbia",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/serbia.png"
+                },{
+                    "name" : "Switzerland",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/switzerland.png"
+                },{
+                    "name" : "Cameroon",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/cameroon.png"
+                }
+            ],
+            "grouph" : [
+                {
+                    "name" : "Portugal",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/portugal.png"
+                },{
+                    "name" : "Ghana",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/ghana.png"
+                },{
+                    "name" : "Uruguay",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/uruguay.png"
+                },{
+                    "name" : "Korea Republic",
+                    "flag" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/south-korea.png"
+                }
+            ]
+        }
+    ],
+
+    "matches" : [
+        {
+            "team_a" : "Qatar",
+            "team_b" : "Ecuador",
+            "flag_a" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/qatar.png",
+            "flag_b" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/ecuador.png",
+            "date" : "Sun 20 Nov-17:00",
+            "group" : "Group A",
+            "stadium" : "Al Bayt Stadium"
+        },
+        {
+            "team_a" : "Brasil",
+            "team_b" : "Tunisia",
+            "flag_a" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/brazil.png",
+            "flag_b" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/tunisia.png",
+            "date" : "Sun 20 Nov-19:00",
+            "group" : "Group C",
+            "stadium" : "Al Bayt Stadium"
+        },
+        {
+            "team_a" : "Morocco",
+            "team_b" : "Canada",
+            "flag_a" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/morocco.png",
+            "flag_b" : "https://www.theflagshop.co.uk/media/wysiwyg/porto/homepage/canada.png",
+            "date" : "Sun 20 Nov-21:00",
+            "group" : "Group B",
+            "stadium" : "Al Bayt Stadium"
+        }
+    ],
+
+    "servers" : [
+        {
+            "title" : "Bein Sport 1",
+            "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/300px-Logo_bein_sports_1.png?20170228135319",
+            "link" : "http://bestott.net:80/1731891773/647F1289637601D/73363",
+            "type" : "iptv"
+        },
+        {
+            "title" : "Sport+",
+            "ico" : "https://e7.pngegg.com/pngimages/60/763/png-clipart-television-channel-logo-sport-sports-logo-television-blue.png",
+            "link" : "http://bestott.net:80/1731891773/647F1289637601D/27901",
+            "type" : "iptv"
+        },
+        {
+            "title" : "MNC Sports 1",
+            "ico" : "https://img.favpng.com/13/0/17/mnc-sports-mnc-channels-television-channel-png-favpng-n1AuC3tqsMQVpW2nA9px2gkmj.jpg",
+            "link" : "<iframe loading='lazy' allowfullscreen='true' frameborder='0' height='100%' scrolling='no' src='https://msdee.xyz/ksa1-1/' width='100%' allow='autoplay; fullscreen'></iframe>",
+            "type" : "embed"
+        },
+        {
+            "title" : "Bein Sport 2 FR",
+            "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/300px-Logo_bein_sports_2.png?20170228135704",
+            "link" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
+            "type" : "direct"
+        },
+        {
+            "title" : "Bein Sport 3 HD",
+            "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/300px-Logo_bein_sports_3.png?20170228140009",
+            "link" : "<iframe loading='lazy' allowfullscreen='true' frameborder='0' height='100%' scrolling='no' src='https://msdee.xyz/ksa1-1/' width='100%' allow='autoplay; fullscreen'></iframe>",
+            "type" : "embed"
+        },
+        {
+            "title" : "Sky Sports",
+            "ico" : "https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt9e258f9dbc43612f/603d748dff74f15954098bb7/PremierLeague_ModalChannelLogo.png",
+            "link" : "<iframe loading='lazy' allowfullscreen='true' frameborder='0' height='100%' scrolling='no' src='https://msdee.xyz/ksa1-1/' width='100%' allow='autoplay; fullscreen'></iframe>",
+            "type" : "embed"
+        },
+        {
+            "title" : "Fox Sports 3 HD",
+            "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1280px-Fox_sports_3_logo.svg.png",
+            "link" : "<iframe loading='lazy' allowfullscreen='true' frameborder='0' height='100%' scrolling='no' src='https://msdee.xyz/ksa1-1/' width='100%' allow='autoplay; fullscreen'></iframe>",
+            "type" : "embed"
+        },
+        {
+            "title" : "Bein Sport 4 Ar",
+            "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Logo_bein_sports_4.png/300px-Logo_bein_sports_4.png?20170228140245",
+            "link" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
+            "type" : "direct"
+        },
+        {
+            "title" : "Bein Sport Es HD",
+            "link" : "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
+            "ico" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/BeIN_Sports_En_Espa%C3%B1ol.png/300px-BeIN_Sports_En_Espa%C3%B1ol.png?20210709132434",
+            "type" : "direct"
+        },
+        {
+            "title" : "Bein Sport Haber",
+            "ico" : "https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png?20220224074056",
+            "link" : "<iframe loading='lazy' allowfullscreen='true' frameborder='0' height='100%' scrolling='no' src='https://msdee.xyz/ksa1-1/' width='100%' allow='autoplay; fullscreen'></iframe>",
+            "type" : "embed"
         }
     ],
     
-    "menu" : [
+    "news" : [
         {
-            "active" : "true",
-            "name" : "Guide Tips",
-            "ico" : "",
-            "bg" : "#cc0a11"
+            "title" : "World Cup 2022 takes place in Qatar from November 20 to December 18",
+            "img" : "https://e0.365dm.com/22/10/2048x1152/skysports-world-cup-qatar-2022_5921764.jpg?20221006085810",
+            "details" : "The 2022 World Cup in Qatar kicks off on Sunday November 20 at the Al Bayt Stadium when the hosts take on Ecuador in Group A.The tournament was originally set to begin a day later with Senegal's game against the Netherlands at Al Thumama Stadium but Qatar's match was moved forward to allow them to open their home tournament. England will now feature on the second day with their Group B match against Iran scheduled to take place on Monday November 21 with a 1pm UK time kick-off. The game is just eight days after the Premier League shuts down After qualifying via the play-offs, Wales' first game will also be on Monday November 21.",
+            "referral" : "https://www.skysports.com/football/news/11095/12354033/world-cup-2022-dates-draw-schedule-kick-off-times-final-for-qatar-tournament"
         },
         {
-            "active" : "false",
-            "name" : "puzzle",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/puzzle.png",
-            "bg" : "#FBBF24"
+            "title" : "Qatar World Cup ambassador criticised for ‘harmful’ homosexuality comments",
+            "img" : "https://i.guim.co.uk/img/media/e7e7cb30f7f42ec9d2435df0ae988acb1d810325/0_145_3500_2100/master/3500.jpg?width=620&quality=45&dpr=2&s=none",
+            "details" : "Remarks by a Qatar World Cup ambassador have been called “harmful and unacceptable” after he described homosexuality as “damage in the mind”. Khalid Salman, a former Qatar international footballer, made the comments in an interview with the German broadcaster ZDF. Asked about the fact that homosexuality is illegal in his country, Salman said: “They have to accept our rules here. [Homosexuality] is haram. You know what haram means?” When asked why it was haram, or forbidden, Khalid Salman said: “I am not a strict Muslim but why is it haram? Because it is damage in the mind.” Salman was speaking in his capacity as an ambassador for the 2022 World Cup, a role he shares with a number of football legends including Cafu and Xavi Hernández. Organisers described the role of ambassador as “harnessing the power of football to create positive social change in Qatar, across the region and around the globe”. Rasha Younes of the LGBT rights program at Human Rights Watch said: “Salman’s suggestion that same-sex attraction is ‘damage in the mind’ is harmful and unacceptable.” Last month HRW published a report documenting what it claimed was “arbitrary” police action against LGBTQ+ residents in Qatar, including six cases of severe and repeated beatings and five cases of sexual harassment in police custody between 2019 and 2022. A Qatari official said HRW’s allegations “contain information that is categorically and unequivocally false”, without specifying. Fans hoping to travel to the World Cup have also expressed concerns over safety in the country. Documents seen by the Guardian suggest police will be told not to take action against public displays of affection or those who protest for LGBTQ+ rights.",
+            "referral" : "https://www.theguardian.com/football/2022/nov/08/qatar-world-cup-ambassador-homosexuality"
         },
         {
-            "active" : "false",
-            "name" : "spinner",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/rgb-circle-1.png",
-            "bg" : "#A3E635"
+            "title" : "Awarding Qatar the tournament was a mistake, says former Fifa president Sepp Blatter",
+            "img" : "https://cdn.resfu.com/media/img_news/eight-groups---qatar-2022--besoccer.png?size=1200x&lossy=1",
+            "details" : "Blatter, 86, was president of world football's governing body when Qatar was awarded the tournament in 2010. The Gulf state has been criticised for its stance on same-sex relationships, human rights record and treatment of migrant workers. Qatar World Cup ambassador Khalid Salman has said that homosexuality is damage in the mind. The former Qatar international told German broadcaster ZDF that LGBTQ+ people attending the tournament should accept our rules. There is concern about how LGBTQ+ people are treated in Qatar, where same-sex relationships and the promotion of same-sex relationships are criminalised, with punishments ranging from fines to the death sentence..",
+            "referral" : "https://www.bbc.com/sport/football/63554507"
         },
         {
-            "active" : "false",
-            "name" : "scratch",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/erase-image.png",
-            "bg" : "#38BDF8"
-        },
-        {
-            "active" : "false",
-            "name" : "questions",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/how-many-quest--v2.png",
-            "bg" : "#2DD4BF"
-        },
-        {
-            "active" : "false",
-            "name" : "quiz",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/what.png",
-            "bg" : "#4ADE80"
-        },
-        {
-            "active" : "true",
-            "name" : "wallpapers",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/tails.png",
-            "bg" : "#2196F3"
-        },
-        {
-            "active" : "true",
-            "name" : "rate",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/star--v1.png",
-            "bg" : "#3F51B5"
-        },
-        {
-            "active" : "true",
-            "name" : "gdpr",
-            "ico" : "https://img.icons8.com/ios/130/ffffff/gdpr.png",
-            "bg" : "#673AB7"
+            "title" : "World Cup 2022: Day-by-day fixture & TV guide",
+            "img" : "https://fotos.perfil.com/2022/06/15/trim/720/410/fifa-1372404.jpg",
+            "details" : "The tournament kicks off on 20 November with hosts Qatar facing Ecuador. England and Wales are in action the following day against Iran and the United States respectively in Group B. But where can you watch those games? When are the other group fixtures? What day do the knockout rounds start? And when is the final? BBC Sport provides you with all the fixture and TV information available for the first World Cup to be held outside the northern hemisphere summer.",
+            "referral" : "https://www.bbc.com/sport/football/60959746"
         }
+    ]
 
-    ],
-
-    "wallpapers" : [
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/pVfcFWV0/1425224.webp"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/bryxbjLM/20498958.png"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/7hnB8VQv/20502249.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/4xN0GDgW/3cf279352e38ffaf899a6a0cb80e0226.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/s2M0Q51S/570c1d9c443f7804232b08bbb30d24a4.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/Y0HXsVRf/5719ae5d4d388a12df4c6b1940769deb.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/XYHzYsN4/5849968.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/BQJY5rXJ/6451460.webp"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/XNkxvsxm/77088264604401-5ad79a397ddc3.png"
-        },
-          {
-            "name" : "",
-            "img" : "https://i.postimg.cc/gJRS4dV2/799c5b98c51f69c54f320cc945c2a71e.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/pXk0ssFz/be190b5277de04af7995aceaf517923d.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/y8bLHWnN/dbb8e85b57a26e28b5d0aeb37dcb5eb5.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/mgDmJ7Yq/e0e6655b7ed00b36a66afe835d37ef01.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/3w0nJ7bF/ecfc9cb28fa88974d751408d19deb135.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/1XsHHFRv/f0fce1c31582a4149d520c2ab1924ed1.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/3N1ZbwdY/f319298ececc9e64e6693eb3ac242623.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/zBn7K7NL/HD-wallpaper-kylian-mbappe-football-soccer-kylian-mbappe-french-paris-saint-germain.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/26pT1JsR/images.jpg"
-        },
-         {
-            "name" : "",
-            "img" : "https://i.postimg.cc/NfN46L3x/real-madrid-s-algerian-origin-french-striker-karim-benzema-wallpaper-720x1280-184.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/BnXCM4sf/screen-0.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/DZKdvGG7/screen-0.webp"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/NfGD2RzM/screen-11.webp"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/x1h3ZhTJ/unnamed.png"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/3wGFQ1dL/wallpapersden-com-goat-lionel-mess-psg-480x800.jpg"
-        },
-        {
-            "name" : "",
-            "img" : "https://i.postimg.cc/C5cjs6QK/wallpapersden-com-karim-benzema-real-madrid-2021-1536x2048.jpg"
-        }
-    ],
-    
-    "data" : [
-        {
-            "url" : "http://app.yacineapp.tv/",
-            "urlimg" : "https://i.postimg.cc/DzM3LnrM/pp.png",
-            "name" : "Live Yacine TV Scores",
-            "img1" : "https://i.postimg.cc/RCs3bHM3/unnamed-2.png",
-            "img2" : "https://i.postimg.cc/c1cWDb81/file-1657871923716.png",
-            "part1" : "If you are looking or searching for a new IPTV or TV streaming app to stream live FIFA world cup 2022 matches for free then you must download and install the latest version of the new IPTV app “Yacine TV” on your smartphone and tablet for free.",
-            "part2" : "As you know that getting a free IPTV or streaming app is not easy for many smartphone users. Because there are tons of streaming and IPTV apps on the internet with different features and media content.Choosing the best among these apps is not easy if you don’t know about the app. To help our viewers to choose the best app we always try to share the best IPTV or streaming app with brief information about content and other features of the app which help them to decide whether need this app or not.As mentioned above it is the new and latest IPTV or TV streaming app developed and released by ycntivi for android and iOS users from all around the world who want to watch live sports matches and want to stream movies and other media content for free."
-        },
-        {
-            "url" : "http://app.yacineapp.tv/",
-            "urlimg" : "https://i.postimg.cc/DzM3LnrM/pp.png",
-            "name" : "Live Yacine TV Scores",
-            "img1" : "https://i.postimg.cc/RCs3bHM3/unnamed-2.png",
-            "img2" : "https://i.postimg.cc/fbk7PpbG/file-1657871976141.jpg",
-            "part1" : "This new app is initially available on all official app stores on internet but now this app also has been removed from all official app stores due to different legality issues which are mostly free streaming apps or tool face.",
-            "part2" : "Like other IPTV apps or streaming apps developer has divided all Live TV channels into different categories so that people can get access to their desired TV channels easily. We have tried to mention all streaming and Live TV channels in this article. "
-        },
-        {
-            "url" : "http://app.yacineapp.tv/",
-            "urlimg" : "https://i.postimg.cc/DzM3LnrM/pp.png",
-            "name" : "Live Yacine TV Scores",
-            "img1" : "https://i.postimg.cc/RCs3bHM3/unnamed-2.png",
-            "img2" : "https://i.postimg.cc/G2tytyD6/file-1657872032679.jpg",
-            "part1" : "If you want to know about this new app before downloading and installing it on your device then you can easily get information about the app from their official website where you will get a download link of the app too.",
-            "part2" : "Apart from the official website you can also get information about this new app from this article. In this article, we have tried to cover all the key features and drawbacks of the app. After reading all the key features and drawbacks if you decided to download this new app then you can easily download it from their official website for free.Apart from this news all, you may also try these below mentioned other sports apps from our website to stream Live FIFA 2022 world matches for free,"
-        },
-        {
-            "url" : "http://app.yacineapp.tv/",
-            "urlimg" : "https://i.postimg.cc/DzM3LnrM/pp.png",
-            "name" : "Live Yacine TV Scores",
-            "img1" : "https://i.postimg.cc/RCs3bHM3/unnamed-2.png",
-            "img2" : "https://i.postimg.cc/Y2JdcrKt/file-1657872142985.jpg",
-            "part1" : "In this new app users will get the below-mentioned TV channels from list categories like,",
-            "part2" : "Arena Sports 1, Arena Sports 2, Arena Sports 3, Tring Sport 1, Tring Sport 2, Setanta Sports 1, Setanta Sports 2, Match! TV, Idman TV CBC Sport, Turkmenistan Sports."
-        },
-        {
-            "url" : "http://app.yacineapp.tv/",
-            "urlimg" : "https://i.postimg.cc/DzM3LnrM/pp.png",
-            "name" : "Live Yacine TV Scores",
-            "img1" : "https://i.postimg.cc/RCs3bHM3/unnamed-2.png",
-            "img2" : "https://i.postimg.cc/YqHQfhBL/file-1657872179639.jpg",
-            "part1" : "ياسين تيفي is the new and latest safe and secure IPTV app.",
-            "part2" : "It has a new design with a new collection of channels.It supports both DLNA and Chromecast technology to stream live matches and other media content on big screens.Contains a Modern external player and also supports built-in players.Daily new Live events are added developer.The latest search options are available in-app.Fix the full-screen problem.Support multiple themes.Support all android devices.No need for registration and subscription.HD quality TV channels.Free to download and use."
-        },
-        {
-            "url" : "http://app.yacineapp.tv/",
-            "urlimg" : "https://i.postimg.cc/DzM3LnrM/pp.png",
-            "name" : "Live Yacine TV Scores",
-            "img1" : "https://i.postimg.cc/RCs3bHM3/unnamed-2.png",
-            "img2" : "https://i.postimg.cc/xdzd43Kf/file-1657872216790.jpg",
-            "part1" : "After knowing all the above-mentioned list of live TV channels if you have decided to download and install this new IPTV app Yacine TV Download it on your device then download and install it from our website using the direct download link given at the end of the article.",
-            "part2" : "While installing the app allow all permissions and also enable unknown sources from the security setting. After installing the app open it and you will see the main dashboard of an app with tons of live Tv channels. Apart from live TV channels users will also get the below-mentioned menu list,"
-        },
-        {
-            "url" : "http://app.yacineapp.tv/",
-            "urlimg" : "https://i.postimg.cc/DzM3LnrM/pp.png",
-            "name" : "Live Yacine TV Scores",
-            "img1" : "https://i.postimg.cc/RCs3bHM3/unnamed-2.png",
-            "img2" : "https://i.postimg.cc/YqrzBhDK/file-1657872271139.jpg",
-            "part1" : "Best Quality: There are various channels here, including Ben Sports and other sports channels. Surprisingly, these channels are the best quality that users can enjoy.",
-            "part2" : "A major disadvantage of most entertainment apps is that they are not compatible with a variety of devices, especially Android devices. This is another factor that sets Yacine TV Apk apart. It works well on all Android systems. So, you don't have to worry."
-        },
-        {
-            "url" : "http://app.yacineapp.tv/",
-            "urlimg" : "https://i.postimg.cc/DzM3LnrM/pp.png",
-            "name" : "Live Yacine TV Scores",
-            "img1" : "https://i.postimg.cc/RCs3bHM3/unnamed-2.png",
-            "img2" : "https://i.postimg.cc/C1CkWgjx/file-1657872302405.jpg",
-            "part1" : "You can also watch sports activity channels and watch the most effective 2020 World Cup and leg game channels for watching Arabic and global video games which will help you enjoy the Yacine TV App utility completely free.",
-            "part2" : "Was provided by, and we can punish you with the features of this utility, plus a hyperlink for loading today's software model for Android phones where you can experience all the features of the utility without any problems."
-        },
-        {
-            "url" : "http://app.yacineapp.tv/",
-            "urlimg" : "https://i.postimg.cc/DzM3LnrM/pp.png",
-            "name" : "Live Yacine TV Scores",
-            "img1" : "https://i.postimg.cc/RCs3bHM3/unnamed-2.png",
-            "img2" : "https://i.postimg.cc/GmsBWRRn/file-1657872368222.jpg",
-            "part1" : "The good news about this free live sports streaming app for everyone is that you don't need any registration. It's completely free to use and requires no signup or registration to stream live sporting events on your phone.",
-            "part2" : "Yasin TV Sports is an instant answer for all fans of free sports streaming content. For this reason, the developers have decided to keep Yacine's login and password-free."
-        },
-        {
-            "url" : "http://app.yacineapp.tv/",
-            "urlimg" : "https://i.postimg.cc/DzM3LnrM/pp.png",
-            "name" : "Live Yacine TV Scores",
-            "img1" : "https://i.postimg.cc/RCs3bHM3/unnamed-2.png",
-            "img2" : "https://i.postimg.cc/vTkYh1cg/file-1657872453308.jpg",
-            "part1" : "You can download any version of the application directly from the third-party website. You can have the app archives of most versions and you can download them according to your needs.Unlike Play Store, downloading is instant, you don't have to wait for the review process, etc.After downloading, there is an APK file on your memory card/system memory. So you can uninstall and reinstall them many times without downloading.",
-            "part2" : "Downloading apps from third-party sources are not usually checked by Google. So it can be harmful to your phone.APK files may contain viruses that steal data from your phone or damage your phone.Your apps won't automatically update because they don't usually have access to the Google Play Store"
-        },
-         {
-            "url" : "http://app.yacineapp.tv/",
-            "urlimg" : "https://i.postimg.cc/DzM3LnrM/pp.png",
-            "name" : "Live Yacine TV Scores",
-            "img1" : "https://i.postimg.cc/RCs3bHM3/unnamed-2.png",
-            "img2" : "https://i.postimg.cc/c1cWDb81/file-1657871923716.png",
-            "part1" : "If you are looking or searching for a new IPTV or TV streaming app to stream live FIFA world cup 2022 matches for free then you must download and install the latest version of the new IPTV app “Yacine TV” on your smartphone and tablet for free.",
-            "part2" : "As you know that getting a free IPTV or streaming app is not easy for many smartphone users. Because there are tons of streaming and IPTV apps on the internet with different features and media content.Choosing the best among these apps is not easy if you don’t know about the app. To help our viewers to choose the best app we always try to share the best IPTV or streaming app with brief information about content and other features of the app which help them to decide whether need this app or not.As mentioned above it is the new and latest IPTV or TV streaming app developed and released by ycntivi for android and iOS users from all around the world who want to watch live sports matches and want to stream movies and other media content for free."
-        },
-        {
-            "url" : "http://app.yacineapp.tv/",
-            "urlimg" : "https://i.postimg.cc/DzM3LnrM/pp.png",
-            "name" : "Live Yacine TV Scores",
-            "img1" : "https://i.postimg.cc/RCs3bHM3/unnamed-2.png",
-            "img2" : "https://i.postimg.cc/fbk7PpbG/file-1657871976141.jpg",
-            "part1" : "This new app is initially available on all official app stores on internet but now this app also has been removed from all official app stores due to different legality issues which are mostly free streaming apps or tool face.",
-            "part2" : "Like other IPTV apps or streaming apps developer has divided all Live TV channels into different categories so that people can get access to their desired TV channels easily. We have tried to mention all streaming and Live TV channels in this article. "
-        },
-        {
-            "url" : "http://app.yacineapp.tv/",
-            "urlimg" : "https://i.postimg.cc/DzM3LnrM/pp.png",
-            "name" : "Live Yacine TV Scores",
-            "img1" : "https://i.postimg.cc/RCs3bHM3/unnamed-2.png",
-            "img2" : "https://i.postimg.cc/G2tytyD6/file-1657872032679.jpg",
-            "part1" : "If you want to know about this new app before downloading and installing it on your device then you can easily get information about the app from their official website where you will get a download link of the app too.",
-            "part2" : "Apart from the official website you can also get information about this new app from this article. In this article, we have tried to cover all the key features and drawbacks of the app. After reading all the key features and drawbacks if you decided to download this new app then you can easily download it from their official website for free.Apart from this news all, you may also try these below mentioned other sports apps from our website to stream Live FIFA 2022 world matches for free,"
-        },
-        {
-            "url" : "http://app.yacineapp.tv/",
-            "urlimg" : "https://i.postimg.cc/DzM3LnrM/pp.png",
-            "name" : "Live Yacine TV Scores",
-            "img1" : "https://i.postimg.cc/RCs3bHM3/unnamed-2.png",
-            "img2" : "https://i.postimg.cc/Y2JdcrKt/file-1657872142985.jpg",
-            "part1" : "In this new app users will get the below-mentioned TV channels from list categories like,",
-            "part2" : "Arena Sports 1, Arena Sports 2, Arena Sports 3, Tring Sport 1, Tring Sport 2, Setanta Sports 1, Setanta Sports 2, Match! TV, Idman TV CBC Sport, Turkmenistan Sports."
-        }
-           
-
-      ]
 }
