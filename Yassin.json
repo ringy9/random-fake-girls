@@ -3,7 +3,7 @@
         {
             "network" : "max",
             "activate_ads" : "true",
-            "int_interval" : 5,
+            "int_interval" : 3,
 
             "groups_box_active" : "on",
             "groups_matches_active" : "on",
@@ -15,17 +15,17 @@
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
             "admob_int": "ca-app-pub-3940256099942544/1033173712",
 
-            "fan_ban": "IMG_16_9_APP_INSTALL#5352092381549612_5352094308216086",
-            "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
-            "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
+            "fan_ban": "1360627428038299_1360628131371562",
+            "fan_native": "1360627428038299_1360628314704877",
+            "fan_int": "1360627428038299_1360628178038224",
 
             "iron_key": "17417cb4d",
             "iron_ban" : "DefaultBanner",
             "iron_int" : "DefaultInterstitial",
 
-            "max_ban" : "0ed9bd92d7d8ebd7",
-            "max_native" : "498b6b0b634808e0",
-            "max_int" : "1b7c6b8e28e541e9"
+            "max_ban" : "9372c30e43ae2788",
+            "max_native" : "0fe44b6b70557c7a",
+            "max_int" : "4f401118f0295728"
         }
     ],
 
@@ -186,63 +186,21 @@
 
     "servers" : [
         {
-            "title" : "BEIN PREMIUM 1",
-            "ico" : "https://i.postimg.cc/qRmBqHHh/p-1.png",
-            "link" : "http://bestott.net:80/1731891773/647F1289637601D/18114",
+            "title" : "المغرب ضد جورجيا",
+            "ico" : "https://i.postimg.cc/6QMhvWkJ/MOROCO-VS-GORJYA.png",
+            "link" : "http://bestott.net:80/1731891773/647F1289637601D/1056",
             "type" : "iptv"
         },
         {
-            "title" : "BEIN PREMIUM 2",
-            "ico" : "https://i.postimg.cc/6qyWGbBH/p-2.png",
-            "link" : "http://bestott.net:80/1731891773/647F1289637601D/18113",
+            "title" : "الأردن ضد اسبانيا",
+            "ico" : "https://i.postimg.cc/Dyd9WswS/390x220.jpg",
+            "link" : "http://bestott.net:80/1731891773/647F1289637601D/719",
             "type" : "iptv"
         },
         {
-            "title" : "BEIN PREMIUM 3",
-            "ico" : "https://i.postimg.cc/HnRp00xT/p-3.png",
-            "link" : "http://bestott.net:80/1731891773/647F1289637601D/18112",
-            "type" : "iptv"
-        },
-        {
-            "title" : "BEIN SPORT 1",
-            "ico" : "https://i.postimg.cc/sxN26dnd/1.png",
-            "link" : "http://bestott.net:80/1731891773/647F1289637601D/18111",
-            "type" : "iptv"
-        },
-        {
-            "title" : "BEIN SPORT 2",
-            "ico" : "https://i.postimg.cc/28g6nYbn/2.png",
-            "link" : "http://bestott.net:80/1731891773/647F1289637601D/18110",
-            "type" : "iptv"
-        },
-        {
-            "title" : "BEIN SPORT 3",
-            "ico" : "https://i.postimg.cc/fTVy3yLw/3.png",
-            "link" : "http://bestott.net:80/1731891773/647F1289637601D/18109",
-            "type" : "iptv"
-        },
-        {
-            "title" : "BEIN SPORT 4",
-            "ico" : "https://i.postimg.cc/3wTxbZZR/4.png",
-            "link" : "http://bestott.net:80/1731891773/647F1289637601D/18108",
-            "type" : "iptv"
-        },
-        {
-            "title" : "BEIN SPORT 5",
-            "ico" : "https://i.postimg.cc/x1HdRZMh/5.png",
-            "link" : "http://bestott.net:80/1731891773/647F1289637601D/18107",
-            "type" : "iptv"
-        },
-        {
-            "title" : "BEIN SPORT 6",
-            "ico" : "https://i.postimg.cc/FKVHtJPx/6.png",
-            "link" : "http://bestott.net:80/1731891773/647F1289637601D/18106",
-            "type" : "iptv"
-        },
-        {
-            "title" : "BEIN SPORT 7",
-            "ico" : "https://i.postimg.cc/mDZ2T2JW/7.png",
-            "link" : "http://bestott.net:80/1731891773/647F1289637601D/73323",
+            "title" : "البرتغال ضد نيجيريا",
+            "ico" : "https://i.postimg.cc/R0DFj2rx/Whats-App-Image-2022-11-16-at-2-23-20-PM.webp",
+            "link" : "http://bestott.net:80/1731891773/647F1289637601D/68419",
             "type" : "iptv"
         }
     ],
