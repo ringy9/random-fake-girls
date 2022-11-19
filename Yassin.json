@@ -9,7 +9,7 @@
             "groups_matches_active" : "on",
             "groups_news_active" : "on",
             "iptv_active" : "off",
-            "live_active" : "off",
+            "live_active" : "on",
 
             "admob_ban": "ca-app-pub-3940256099942544/6300978111",
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
@@ -184,23 +184,23 @@
         }
     ],
 
-    "servers" : [
+   "servers" : [
         {
             "title" : "HD 1080p الجزائر ضد السويد",
             "ico" : "https://i.postimg.cc/MpNW9DCG/czo2-NToia-HR0c-HM6-Ly93d3cu-ZWxm-YWdy-Lm9y-Zy9-Vc-Gxv-YWRDYWNo-ZS9sa-WJma-Wxlcy80-ODcv-Ni82-MDB4-Mz-M4by8z-OC5wbmci-Ow.jpg",
-            "link" : "http://bestott.net:80/1731891773/647F1289637601D/1039",
+            "link" : "http://bestott.net:80/1731891773/647F1289637601D/1012",
             "type" : "iptv"
         },
         {
             "title" : "HD 720p الجزائر ضد السويد",
             "ico" : "https://i.postimg.cc/MpNW9DCG/czo2-NToia-HR0c-HM6-Ly93d3cu-ZWxm-YWdy-Lm9y-Zy9-Vc-Gxv-YWRDYWNo-ZS9sa-WJma-Wxlcy80-ODcv-Ni82-MDB4-Mz-M4by8z-OC5wbmci-Ow.jpg",
-            "link" : "http://bestott.net:80/1731891773/647F1289637601D/1039",
+            "link" : "http://bestott.net:80/1731891773/647F1289637601D/1012",
             "type" : "iptv"
         },
         {
             "title" : "SD 480p الجزائر ضد السويد",
             "ico" : "https://i.postimg.cc/MpNW9DCG/czo2-NToia-HR0c-HM6-Ly93d3cu-ZWxm-YWdy-Lm9y-Zy9-Vc-Gxv-YWRDYWNo-ZS9sa-WJma-Wxlcy80-ODcv-Ni82-MDB4-Mz-M4by8z-OC5wbmci-Ow.jpg",
-            "link" : "http://bestott.net:80/1731891773/647F1289637601D/1039",
+            "link" : "http://bestott.net:80/1731891773/647F1289637601D/1012",
             "type" : "iptv"
         }
     ],
