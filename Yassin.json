@@ -11,9 +11,9 @@
             "iptv_active" : "off",
             "live_active" : "off",
 
-            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
-            "admob_native" : "ca-app-pub-3940256099942544/2247696110",
-            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+            "admob_ban": "ca-app-pub-6451220567376497/4242688339",
+            "admob_native" : "ca-app-pub-6451220567376497/1221773329",
+            "admob_int": "ca-app-pub-6451220567376497/2011276663",
 
             "fan_ban": "680075590215147_680083426881030",
             "fan_native": "680075590215147_680083566881016",
