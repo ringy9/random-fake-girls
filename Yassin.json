@@ -156,8 +156,8 @@
 
     "matches" : [
         {
-            "team_a" : "argentina",
-            "team_b" : "saudi arabia",
+            "team_a" : "Argentina",
+            "team_b" : "Saudi Arabia",
             "flag_a" : "https://i.postimg.cc/bYm0C74f/argentina.png",
             "flag_b" : "https://i.postimg.cc/Y9bFPFnz/saudi-arabia.png",
             "date" : "Sun 22 Nov-11:00",
@@ -195,41 +195,30 @@
 
    "servers" : [
        {
-            "title" : "إنجلترا ضد إيران",
+            "title" : "Argentina VS Saudi Arabia",
             "ico" : "https://i.postimg.cc/Pqvb4LRn/angleterre-iran-match-football-2022-2022-world-football-competition-match-championnat-contre-equipes.webp",
             "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
             "type" : "iptv"
         },
        {
-            "title" : "إنجلترا ضد إيران",
+            "title" : "Denmark VS Tunisia",
             "ico" : "https://i.postimg.cc/Pqvb4LRn/angleterre-iran-match-football-2022-2022-world-football-competition-match-championnat-contre-equipes.webp",
             "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
             "type" : "iptv"
         },
         {
-            "title" : "السنغال ضد هولندا",
+            "title" : "Mexico VS Poland",
             "ico" : "https://i.postimg.cc/28fsd2sx/senegal-pays-bas-match-football-2022-2022-world-football-competition-match-championnat-contre-equipe.webp",
             "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
             "type" : "iptv"
         },
         {
-            "title" : "السنغال ضد هولندا",
+            "title" : "France VS Australia",
             "ico" : "https://i.postimg.cc/28fsd2sx/senegal-pays-bas-match-football-2022-2022-world-football-competition-match-championnat-contre-equipe.webp",
-            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
-            "type" : "iptv"
-        },
-         {
-            "title" : "الولايات المتحدة الأمريكية ضد ويلز",
-            "ico" : "https://i.postimg.cc/tTK9xcVH/etats-unis-pays-galles-match-football-2022-2022-match-championnat-competition-mondiale-football-cont.webp",
-            "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
-            "type" : "iptv"
-        },
-        {
-            "title" : "الولايات المتحدة الأمريكية ضد ويلز",
-            "ico" : "https://i.postimg.cc/tTK9xcVH/etats-unis-pays-galles-match-football-2022-2022-match-championnat-competition-mondiale-football-cont.webp",
             "link" : "http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173",
             "type" : "iptv"
         }
+       
 
     ],
     
