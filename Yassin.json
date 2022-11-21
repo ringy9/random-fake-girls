@@ -9,7 +9,7 @@
             "groups_matches_active" : "on",
             "groups_news_active" : "on",
             "iptv_active" : "off",
-            "live_active" : "off",
+            "live_active" : "on",
 
             "admob_ban": "ca-app-pub-6451220567376497/4242688339",
             "admob_native" : "ca-app-pub-6451220567376497/1221773329",
@@ -188,8 +188,8 @@
        {
             "title" : "إنجلترا ضد إيران",
             "ico" : "https://i.postimg.cc/Pqvb4LRn/angleterre-iran-match-football-2022-2022-world-football-competition-match-championnat-contre-equipes.webp",
-            "link" : "http://bestott.net:80/M8617237/65115675D35A/27898",
-            "type" : "iptv"
+            "link" : "<script type='text/javascript'> width=480, height=320, channel='179', server='1', g='embed';</script><script type='text/javascript' src='https://aflam4you.live/aflam4youembed.js'></script><a href="https://www.aflam4youtv.com/bein-sport-max-1-kora-world-cup-2022_179.html" target="_blank"><font color="black">.</font></a>",
+            "type" : "embed"
         },
        {
             "title" : "إنجلترا ضد إيران",
