@@ -156,45 +156,6 @@
 
     "matches" : [
         {
-            "team_a" : "Cameroon",
-            "team_b" : "Switzerland",
-            "flag_a" : "https://i.postimg.cc/25ftfGM3/cameroon.png",
-            "flag_b" : "https://i.postimg.cc/RCbb04yk/switzerland.png",
-            "date" : "Thurs 24 Nov-11:00",
-            "group" : "Group G",
-            "stadium" : "Lusail Stadium"
-        },
-        {
-            "team_a" : "South-Korea",
-            "team_b" : "Uruguay",
-            "flag_a" : "https://i.postimg.cc/Bbyh7B2S/south-korea.png",
-            "flag_b" : "https://i.postimg.cc/L5hCVbYQ/uruguay.png",
-            "date" : "Thurs 24 Nov-14:00",
-            "group" : "Group H",
-            "stadium" : "Education City Stadium"
-        },
-        {
-            "team_a" : "Ghana",
-            "team_b" : "Portugal",
-            "flag_a" : "https://i.postimg.cc/bvHBYbfg/ghana.png",
-            "flag_b" : "https://i.postimg.cc/9MLgZhMq/portugal.png",
-            "date" : "Thurs 24 Nov-17:00",
-            "group" : "Group H",
-            "stadium" : "Stadium 974"
-        },
-           {
-            "team_a" : "Serbia",
-            "team_b" : "Brazil",
-            "flag_a" : "https://i.postimg.cc/rmVYDm8k/serbia.png",
-            "flag_b" : "https://i.postimg.cc/MpBL4Nsh/brazil.png",
-            "date" : "Thurs 24 Nov-20:00",
-            "group" : "Group G",
-            "stadium" : "Al Janoub Stadium"
-        }
-    ],
-
-    "matches" : [
-        {
             "team_a" : "france",
             "team_b" : "poland",
             "flag_a" : "https://i.postimg.cc/gJnTmj1x/france.png",
